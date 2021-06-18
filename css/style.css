@@ -1,0 +1,15 @@
+#projecttitle{
+    font-size: 60px;
+}
+table,th,td{
+    border: 1px solid grey;
+}
+h1{
+    color: aliceblue;
+    background-color: black;
+    display: block;
+}
+
+.emphasis{
+    color: blueviolet;
+}
